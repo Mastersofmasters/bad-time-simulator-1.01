@@ -18,9 +18,9 @@
 0,SansHead,BlueEye							
 0,SansBody,HandDown							
 0,SansSlam,1							
-0,BoneStab,1,50,0.5,0.3				
+0,BoneStab,1,75,0.5,0.3				
 0.2,GasterBlaster,1,200,10,372,400,270,0,0.2
-0	GasterBlaster,0,200,10,271,400,270,0,0.2
+0,GasterBlaster,0,200,10,271,400,270,0,0.2
 0.4,SansBody,HandUp							
 0,SansSlam,3							
 0,BoneStab,3,35,0.7,0.3				
