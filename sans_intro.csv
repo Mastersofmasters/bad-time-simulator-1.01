@@ -35,7 +35,7 @@
 0,Sound,Flash									
 0,SansHead,Default									
 0,SansAnimation,Idle									
-0.2,GasterBlaster	2,200,10,340,160,90,0,0.2		
+0.2,GasterBlaster,2,200,10,340,160,90,0,0.2		
 0.8,GasterBlaster,1,200,10,260,160,90,0.1,0.2		
 1,HeartMode,0									
 0,Sound,Ding									
