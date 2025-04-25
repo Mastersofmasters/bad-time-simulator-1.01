@@ -11,7 +11,7 @@
 0,Sound,mus_zz_megalovania,0						
 0,SansAnimation								
 0,SansHead,ClosedEyes							
-0	CombatZoneResizeInstant,250,250,400,400				
+0,CombatZoneResizeInstant,250,250,400,400				
 0,HeartMode,3							
 0,GetHeartPos,0,0						
 0,HeartTeleport,323,329														
