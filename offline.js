@@ -71,7 +71,7 @@
 		"images/white-sheet0.png",
 		"images/yellow-sheet0.png",
 		"images/playerheart-sheet0.png",
-		"images/Playerheart-sheet1.png",
+		"images/playerheart-sheet1.png",
 		"images/menuitem-sheet0.png",
 		"images/heartshard-sheet0.png",
 		"images/heartshard-sheet1.png",
