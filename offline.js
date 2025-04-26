@@ -112,7 +112,6 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"sans_intro.csv",
-		"A_bad_talk.csv",
 		"sans_bonegap1.csv",
 		"sans_bonegap2.csv",
 		"sans_bluebone.csv",
