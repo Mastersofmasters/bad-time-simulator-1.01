@@ -26,7 +26,7 @@
 0.5,SansBody,HandLeft							
 0,SansSlam,2							
 0,BoneStab,2,50,0.7,0.3				
-0,SansText,Welp your not going anywhere							
+
 0.2,BlackScreen,1									
 0,Sound,Flash									
 0.2,BlackScreen,0									
@@ -43,4 +43,4 @@
 0,SansTorso,Default									
 0.8,SansTorso,Shrug									
 0,SansHead,Wink									
-0,SansText,You don't have to do            this									
+						
