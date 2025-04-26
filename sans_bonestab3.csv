@@ -24,4 +24,28 @@
 0.2,BoneStab,$Direction,29,0.4,0,
 0.23333,JMPABS,6,,,,
 0,SansText,Come on pal you can      handle this right?
-0,EndAttack,,,,,
+0,sound,flash,,,
+0.6666,Screenflash,1
+0,ScreenFlash,0
+
+0,CombatZoneResizeInstant,280,210,370,290,,,
+0,HeartTeleport,325,250,,,,
+0,BoneBulletH,0,500,,
+0.45,BoneBulletH,2,500,,
+0.45,BoneBulletH,0,500,,
+0,BoneBulletH,0,500,,
+0.45,BoneBulletH,2,500,,
+0,BoneBulletH,2,500,,
+0,BoneBulletH,0,500,,
+0.45,BoneBulletH,2,500,,
+0,BoneBulletH,2,500,,
+0.45,BoneBulletH,0,500,,
+0.45,BoneBulletH,2,500,,
+0,BoneBulletH,0,500,,
+0,BoneBulletH,2,500,,
+0,BoneBulletH,0,500,,
+0,SansText,normal attacks are outdated,,,
+0,SansHead,Lookleft,,,
+0.9,EndAttack,,,,,,
+
+
