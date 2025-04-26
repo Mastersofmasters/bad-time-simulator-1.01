@@ -38,7 +38,7 @@
 1,HeartMode,0									
 0,Sound,Ding									
 0,SansBody,HandRight									
-0,SineBones,15,-20,300,40						
+0,SineBones,15,-20,300,40,,,,					
 1,SansBody,HandLeft									
 0,SansTorso,Default									
 0.8,SansTorso,Shrug									
