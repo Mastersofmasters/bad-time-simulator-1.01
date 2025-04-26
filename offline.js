@@ -71,7 +71,7 @@
 		"images/white-sheet0.png",
 		"images/yellow-sheet0.png",
 		"images/playerheart-sheet0.png",
-		"images/2025_04_26_0m2_Kleki.png",
+		"images/Playerheart-sheet1.png",
 		"images/menuitem-sheet0.png",
 		"images/heartshard-sheet0.png",
 		"images/heartshard-sheet1.png",
