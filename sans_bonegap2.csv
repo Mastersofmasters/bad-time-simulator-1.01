@@ -59,4 +59,5 @@
 0,ADD,Total,$Total,25,,
 0,JMPABS,Begin,,,,
 0,:End,,,,,
+0,SansText,You know peace was      a thing,,,
 7,EndAttack,,,,,
