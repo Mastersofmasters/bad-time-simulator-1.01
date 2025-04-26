@@ -590,7 +590,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0.7,HeartTeleport,320,304,,,,,,
 0,SET,Loop3,15,,,,,,
 ,:SL3,,,,,,,,
-,JMPZ,EL3,$Loop3,,,,,,
+
 ,SUB,Loop3,$Loop3,1,,,,,
 ,RND,Ang,360,,,,,,
 ,COS,X,$Ang,,,,,,
