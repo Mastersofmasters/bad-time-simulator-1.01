@@ -359,7 +359,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 ,,,,,,,,,
 0.828,SET,LGB,8,,,,,,
 0,:StartLoop,,,,,,,,
-0,JMPZ,EndLoop,$LGB,,,,,,
+
 0,SUB,LGB,$LGB,1,,,,,
 0,GetHeartPos,HeartX,HeartY,,,,,,
 0,ANGLE,Ang1,50,120,$HeartX,$HeartY,,,
